@@ -1,2 +1,3 @@
 # LavoraLang
-LavoraLang is a stack-based programming language
+LavoraLang is a programming language
+Coming Soon!
